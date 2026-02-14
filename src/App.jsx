@@ -1,7 +1,8 @@
 import "./App.css";
+import MiniPoll from "./MiniPoll/MiniPoll";
 
 function App() {
-  return <></>;
+  return <><MiniPoll /></>;
 }
 
 export default App;
